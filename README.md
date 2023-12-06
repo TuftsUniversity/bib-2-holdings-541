@@ -18,6 +18,7 @@
   - pip install -r requirements.txt
   - or if you have Python 2 and 3 on your computer,
   - python3 pip -m install requirements.txt
+- you'll also need to put the "secrets_local" folder from Box/Files Between LTS and Tisch Library Tech Services/541 to Holdings Record" in the root folder of this project directory (here)
 
 **Running:**
 
