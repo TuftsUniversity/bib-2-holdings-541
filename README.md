@@ -18,6 +18,7 @@
 - unzip
 - to install the requirements necessary for this script to run
   - pip install -r requirements.txt
+- you'll also need to put the "secrets_local" folder from Box/Files Between LTS and Tisch Library Tech Services/541 to Holdings Record" in the root folder of this project directory (here)
 
 
 **Running:**
