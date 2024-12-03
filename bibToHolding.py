@@ -473,5 +473,5 @@ count_file.write("Records that couldn't be updated.  Check error file:       " +
 # count_file.write("atching errors between 541 and holdings. Check error file: " + str(mismatchCount) + "\n")
 
 output_file.write("</holdings>")
-error_file.close() 
+error_file.close()
 output_file.close()
