@@ -1,0 +1,2 @@
+bib_api_key="l8xx6d87f17c700040dba6a300a2d59e98bc"
+analytics_api_key="l7xxe0d3b0c4773a406083dd061775404faa"
